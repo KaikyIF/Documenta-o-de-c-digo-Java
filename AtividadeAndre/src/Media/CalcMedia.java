@@ -2,7 +2,7 @@ package Media;
 
 /**
  * Classe para objetos Aluno, onde serao contidos valores e metodos para
- * calcular a media e verificar a aprovacao do mesmo.
+ * calcular a media e verificar a aprovacao do mesmo levando em conta a media 6.
  *
  * @author Kaiky
  * @since 11-12-2024 15:30
